@@ -1,0 +1,14 @@
+Notes on Watch Design:
+
+Hey Ryan,
+
+A picture of the Assembly is in folder too for reference.  All of the parts that need to be printed are named correctly.
+    Not all pieces are mated, but was just the idea of how it was suppose to look after assembling it.
+
+For the aesthetic, could you print the KyuAW_BME_299_Connector.stl in red and print everything else in white?
+
+    I know that printing some of these pieces would be hard, especially the top piece, and both the right and intermediate band.  
+    Is this still possible? Or do you have and ideas of how to fix this?
+    In the assembly/parts, do you see any immediate fixes?
+    
+- Alex Kyu
